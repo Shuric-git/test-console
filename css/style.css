@@ -7,3 +7,7 @@ body {
 .page-header {
 	background-color: #bada55;
 }
+
+.promo {
+	direction: block;
+}
